@@ -13,3 +13,6 @@
 ```bash
 vcpkg install exiv2:x64-windows
 ```
+### 打开文件注意
+> 目前存在高版本的 visual studio 有bug，请手动打开 imginfo.vcxproj 文件或者imginfo.sln  
+> ! 不要打开 imginfo.slnx
