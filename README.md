@@ -2,9 +2,11 @@
 # imgGPSinfo
 读取图片中的定位信息，WGS84，转换成10进制格式。生成高德地图链接。
 # 使用方法
-  * 点击按钮 选择单个或者多个图片文件  
-  <img width="376" height="234" alt="image" src="https://github.com/user-attachments/assets/f850545c-1bbc-498c-8f51-d9741932bed8" />  
-  * 会弹出窗口显示 图片的地理信息 ，同时选择几个文件就会弹出对应数量的窗口（例如选择2个文件，就会弹出2个下图的窗口）  
+* 点击按钮 选择单个或者多个图片文件
+
+  <img width="376" height="234" alt="image" src="https://github.com/user-attachments/assets/f850545c-1bbc-498c-8f51-d9741932bed8" />
+   
+* 会弹出窗口显示 图片的地理信息 ，同时选择几个文件就会弹出对应数量的窗口（例如选择2个文件，就会弹出2个下图的窗口）  
   <img width="1340" height="809" alt="image" src="https://github.com/user-attachments/assets/72229c1f-765b-464c-81da-9c71670cecf7" />  
 
 # 编译要求
