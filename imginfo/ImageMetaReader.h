@@ -28,6 +28,5 @@ private:
     bool getGpsValue(const Exiv2::ExifData& exifData, const char* key, double& value);
 
     void wgs84ToGcj02(double lat, double lon, double& outLat, double& outLon);
-    double transformLat(double x, double y);
-    double transformLon(double x, double y);
+
 };
